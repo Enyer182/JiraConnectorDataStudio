@@ -1,0 +1,17 @@
+{
+    "timeZone": "America/Argentina/Buenos_Aires",
+    "dataStudio": {
+      "name": "Conector Jira",
+      "logoUrl": "https://www.ctl.com.ar/wp-content/uploads/2018/08/logo_-2.png",
+      "company": "CTL Information Technology",
+      "companyUrl": "https://www.ctl.com.ar/",
+      "addonUrl": "https://github.com/TurnoverVision/JiraConnectorDataStudio/tree/master#readme",
+      "supportUrl": "https://github.com/TurnoverVision/JiraConnectorDataStudio/issues",
+      "description": "Conector de Jira para Data Studio.",
+      "sources": [
+        "Jira",
+        "Atlassian"
+        "CTL"
+      ]
+    }
+  }
