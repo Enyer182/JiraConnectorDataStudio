@@ -10,7 +10,7 @@
       "description": "Conector de Jira para Data Studio.",
       "sources": [
         "Jira",
-        "Atlassian"
+        "Atlassian",
         "CTL"
       ]
     }
